@@ -58,6 +58,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulg&theme=tokyo-night" />
 
 ---
-
-![snake gif](https://github.com/gokulg/gokulg/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center"> <img src="https://raw.githubusercontent.com/gokulg/gokulg/output/github-contribution-grid-snake.svg" /> </p>
