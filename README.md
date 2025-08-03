@@ -1,12 +1,67 @@
-- 👋 Hi, I’m @Gokul20008
-- 👀 I’m interested in programming,animaction,robotics etc
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- @gokul20082025 Email: legendgokul608@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Gokul G</h1>
+<h3 align="center">A passionate developer, roboticist and AI enthusiast from India 🇮🇳</h3>
 
-<!---
-Gokul20008/Gokul20008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+AI+%26+Robotics;Building+cool+Arduino+Projects;Exploring+Machine+Learning" />
+</p>
+
+---
+
+- 🔭 I’m currently working on: **AI projects, Arduino systems, and web apps**
+- 🌱 I’m learning: **Full Stack Dev, YOLO, and Ethical Hacking**
+- 💬 Ask me about: **Arduino, Web Dev, Python, and anything tech!**
+- 📫 How to reach me: [legendgokul608@gmail.com](mailto:legendgokul608@gmail.com)
+- ⚡ Fun fact: I can turn ideas into full apps in a day 🚀
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulg&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- YOLO object detection
+- TensorFlow.js
+- WebSockets & Real-time APIs
+- Ethical Hacking + AI integration
+
+---
+
+### 🤝 Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+
+---
+
+> “Code like a hacker, think like a creator.” 💻🔥
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulg&theme=tokyo-night" />
+
+---
+
+![snake gif](https://github.com/gokulg/gokulg/blob/output/github-contribution-grid-snake.svg)
+
