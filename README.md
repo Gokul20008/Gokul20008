@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Gokul G</h1>
-<h3 align="center">A passionate Developer, Roboticist, and AI Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate Developer, Roboticist, AI Enthusiast & Ethical Hacker from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=700&lines=Welcome+to+my+GitHub!;I+love+AI+%26+Robotics;Building+cool+Arduino+projects;Exploring+Machine+Learning;Sharing+knowledge+and+ideas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=700&lines=Welcome+to+my+GitHub!;I+love+AI+%26+Robotics;Building+cool+Arduino+projects;Exploring+Machine+Learning;Ethical+Hacking+Expertise;Sharing+Knowledge+and+Ideas" />
 </p>
 
 ---
 
 ### 🔭 About Me
-- Working on **AI, Arduino, and Web Projects**  
-- Turning **ideas into full apps in a day 🚀**  
-- Fun Fact: I love combining **hardware + software + AI**  
+- Working on **AI, Arduino, Web Projects & Ethical Hacking**  
+- CEH Certified ✅ – Passionate about **ethical hacking & cybersecurity**  
+- Fun Fact: I love combining **hardware + software + AI + cybersecurity**  
+- I can turn **ideas into full apps in a day 🚀**  
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=blink"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=blink"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
@@ -38,6 +39,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CEH-Certified-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
@@ -66,7 +68,7 @@
   <b>WebSockets & Realtime APIs:</b>
   <img src="https://progress-bar.dev/75/?title=WebSockets&width=200" /><br>
   <b>Ethical Hacking + AI Integration:</b>
-  <img src="https://progress-bar.dev/70/?title=Ethical+Hacking&width=200" />
+  <img src="https://progress-bar.dev/90/?title=Ethical+Hacking&width=200" />
 </p>
 
 ---
