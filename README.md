@@ -1,85 +1,98 @@
-<h1 align="center">Gokul G</h1>
+<h1 align="center">Hi 👋, I'm Gokul G</h1>
+<h3 align="center">AI Developer • Robotics Engineer • Penetration Testing Enthusiast • Full Stack Builder</h3>
+
 <p align="center">
-AI Developer • Robotics Engineer • Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=0AFFEF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Cybersecurity+%26+Penetration+Testing;Robotics+%26+Embedded+Systems;Full+Stack+Web+Application+Builder;Turning+Ideas+Into+Real+Products" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gokulg&label=Profile+Views&color=blue&style=flat" />
+<img src="https://img.shields.io/github/followers/gokulg?label=Followers&style=flat" />
+<img src="https://img.shields.io/github/stars/gokulg?style=flat" />
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a developer focused on building intelligent systems that combine **Artificial Intelligence, Robotics, Web Technologies and Cybersecurity**.
-
-I enjoy transforming ideas into real-world products — from embedded hardware prototypes to scalable AI-powered web applications.
-
-My work explores practical innovation in areas such as **computer vision, automation, ethical hacking platforms, real-time applications and human-AI interaction systems.**
-
----
-
-## Core Skills
-
-**Programming:** Python, JavaScript, C, C++  
-**Web Development:** HTML, CSS, Node.js, Express.js  
-**AI / Computer Vision:** TensorFlow, YOLO, TensorFlow.js  
-**Hardware & Robotics:** Arduino, Raspberry Pi  
-**Cybersecurity:** Ethical Hacking Labs, Security Tooling, Awareness Platforms  
-**Tools:** Git, REST APIs, WebSockets, Realtime Systems  
+- Developer focused on **AI Systems, Robotics Solutions and Cybersecurity Platforms**
+- Experienced in building **real-time web apps, embedded AI projects and developer tools**
+- Passionate about **penetration testing, ethical hacking labs and security awareness systems**
+- Strong interest in combining **hardware + software + intelligence + automation**
 
 ---
 
-## Selected Projects
+## 🧠 Technical Skills
 
-### ChatFlowG — AI Communication Platform  
-A modern AI-powered chat platform with integrated tools, realtime communication capabilities and modular architecture.
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-Advanced-grey?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Advanced-grey?style=for-the-badge)
 
-Live: https://chatflowg.vercel.app  
+### 🌐 Full Stack Development
+![Node](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-API-black?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-Architecture-red?style=for-the-badge)
 
----
+### 🤖 AI / Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange?style=for-the-badge&logo=tensorflow)
+![YOLO](https://img.shields.io/badge/YOLO-ObjectDetection-red?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Vision-blue?style=for-the-badge)
 
-### Cyber-Help — Cybersecurity Learning Platform  
-A large-scale ethical hacking ecosystem containing tools, labs, structured learning resources and community features.
+### 🔐 Cybersecurity & Penetration Testing
+![Penetration Testing](https://img.shields.io/badge/PenTesting-Active-green?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Labs-darkgreen?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Security-purple?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux)
 
-Live: https://cyber-help.vercel.app  
-
----
-
-### YOLO Road Sign Detection System  
-An interactive computer vision system that detects road signs using real-time webcam input and gamifies traffic awareness learning.
-
-Demo: https://gokulg.github.io/YOLO-Road-Sign-Game/  
-
----
-
-### AI Voice Robot  
-A hardware + AI integration project focused on voice interaction, automation workflows and embedded intelligence.
-
-Repo: https://github.com/gokulg/AI-Voice-Robot  
-
----
-
-### Web Speech Translator  
-A browser-based speech recognition system converting spoken English into Malayalam text using AI models.
-
-Demo: https://gokulg.github.io/Web-Translator/  
+### 🤖 Robotics & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-Embedded-blue?style=for-the-badge&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-IoT-red?style=for-the-badge&logo=raspberrypi)
+![Sensors](https://img.shields.io/badge/Sensors-Integration-lightgrey?style=for-the-badge)
 
 ---
 
-## Current Focus
+## 🌟 Featured Projects
 
-- AI + Cybersecurity integrations  
-- Real-time web architectures  
-- Embedded intelligent robotics systems  
-- Developer tools and productivity platforms  
+### 🧠 ChatFlowG — AI Platform  
+AI chat ecosystem with tools, realtime messaging and modular AI integrations  
+🌍 https://chatflowg.vercel.app  
+
+### 🛡️ Cyber-Help — Ethical Hacking Platform  
+Cybersecurity learning system with tools, labs, courses and community  
+🌍 https://cyber-help.vercel.app  
+
+### 🚦 YOLO Road Sign Detection Game  
+Real-time computer vision game for traffic awareness education  
+🎮 https://gokulg.github.io/YOLO-Road-Sign-Game/  
+
+### 🗣️ Web Speech Translator  
+Speech-to-text system converting English speech into Malayalam text  
+🌍 https://gokulg.github.io/Web-Translator/  
 
 ---
 
-## Contact
+## 📊 GitHub Analytics
 
-Telegram: https://t.me/+918590280501  
-Instagram: https://instagram.com/gokul20082025  
-Email: legendgokul608@gmail.com  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gokulg&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulg&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulg&theme=tokyonight" />
+</p>
 
 ---
 
-## Philosophy
+## 🤝 Connect
 
-> Building technology that is practical, intelligent and impactful.
+Telegram → https://t.me/+918590280501  
+Instagram → https://instagram.com/gokul20082025  
+Email → legendgokul608@gmail.com  
+
+---
+
+> *Engineering intelligent systems. Securing digital ecosystems. Building future-ready technology.*
