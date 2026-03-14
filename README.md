@@ -65,9 +65,9 @@
 🧠 ChatFlowG → https://chatflowg.vercel.app  
 🛡️ Cyber-Help → https://cyber-help.vercel.app  
 📔 My Diary → https://my-diary-jade.vercel.app  
-🚦 YOLO Road Sign Game → https://gokulg.github.io/YOLO-Road-Sign-Game/  
-🗣️ Web Translator → https://gokulg.github.io/Web-Translator/  
-🤖 AI Voice Robot → https://github.com/gokulg/AI-Voice-Robot  
+🚦 YOLO Road Sign Game   
+🗣️ Web Translator   
+🤖 AI Voice Robot 
 
 ---
 
@@ -92,11 +92,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/gokul20082025">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://twitter.com/YOUR_X">
+<a href="https://twitter.com/gokul20082025">
 <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter" />
 </a>
 
@@ -104,7 +104,7 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://facebook.com/gokul2008">
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
 </a>
 
