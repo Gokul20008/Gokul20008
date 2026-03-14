@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gokul G</h1>
 
 <h3 align="center">
-🚀 AI Developer | 🤖 Roboticist | 🔐 Penetration Testing Enthusiast | 🌐 Full Stack Engineer
+🚀 AI Developer | 🤖 Roboticist | 🔐 Penetration Testing Enthusiast | 🌐 Full Stack Engineer | ☁️ Google Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Developer;Cybersecurity+%26+Penetration+Testing;Robotics+%2B+Embedded+Innovation;Full+Stack+Application+Builder;Creating+Real+World+Impact+With+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Developer;Google+Developer;Cybersecurity+%26+Penetration+Testing;Robotics+%2B+Embedded+Innovation;Building+Real+World+Tech+Products" />
 </p>
 
 <p align="center">
@@ -18,10 +18,11 @@
 
 # 🧠 ABOUT ME
 
-💡 Builder focused on **AI Systems, Robotics Automation & Cybersecurity Platforms**  
-⚡ Developing **Realtime Web Apps, Computer Vision Tools & Embedded Intelligence Systems**  
+💡 Developer focused on **Artificial Intelligence Systems, Robotics Automation & Cybersecurity Platforms**  
+☁️ Active **Google Developer ecosystem contributor and learner**  
+⚡ Building **Realtime Web Applications, Computer Vision Systems & Embedded AI Projects**  
 🛡️ Passionate about **Ethical Hacking, Penetration Testing & Security Awareness Platforms**  
-🚀 Love turning **complex ideas into scalable products**
+🚀 Love transforming **complex ideas into scalable digital products**
 
 ---
 
@@ -33,27 +34,28 @@
 ![C](https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge)
 
-## 🌐 Full Stack
+## 🌐 Full Stack Development
 ![HTML](https://img.shields.io/badge/HTML5-Pro-E34F26?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-Pro-1572B6?style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express.js-API-black?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-orange?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-Architecture-red?style=for-the-badge)
 
-## 🤖 AI / Computer Vision
+## 🤖 Artificial Intelligence / Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-FF6F00?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-Detection-FF5733?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-blue?style=for-the-badge)
 
-## 🔐 Cybersecurity
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Active-green?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Labs-darkgreen?style=for-the-badge)
+## 🔐 Cybersecurity & Penetration Testing
+![PenTesting](https://img.shields.io/badge/Penetration_Testing-Active-green?style=for-the-badge)
+![EthicalHacking](https://img.shields.io/badge/Ethical_Hacking-Labs-darkgreen?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-Security-purple?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge)
 
 ## 🤖 Robotics / IoT
 ![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-IoT-C51A4A?style=for-the-badge)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-IoT-C51A4A?style=for-the-badge)
 ![Sensors](https://img.shields.io/badge/Sensors-Integration-grey?style=for-the-badge)
 
 ---
@@ -69,7 +71,7 @@
 
 ---
 
-# 📊 GITHUB POWER STATS
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gokulg&show_icons=true&theme=tokyonight" />
@@ -82,14 +84,6 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gokulg&theme=radical&row=1&column=6" />
-</p>
-
----
-
-# 🐍 CONTRIBUTION GRAPH
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/gokulg/gokulg/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -114,14 +108,10 @@
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
 </a>
 
-<a href="https://t.me/+918590280501">
-<img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram" />
-</a>
-
 </p>
 
 ---
 
-# ⚡ PERSONAL TAGLINE
+# ⚡ PERSONAL PHILOSOPHY
 
-> *Building intelligent systems • Securing digital futures • Engineering innovation.*
+> Building intelligent systems • Securing digital futures • Engineering impactful innovation.
