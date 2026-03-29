@@ -104,7 +104,7 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
 </a>
 
-<a href="https://facebook.com/gokul2008">
+<a href="https://www.facebook.com/gokul20008/">
 <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
 </a>
 
